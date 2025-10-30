@@ -1,4 +1,4 @@
-SPA Alfra — Sistem Manajemen Layanan Spa
+# SPA Alfra — Sistem Manajemen Layanan Spa
 
 **SPA Alfra** adalah aplikasi web berbasis PHP Native yang digunakan untuk mengelola daftar layanan spa & kecantikan.
 Aplikasi ini mendukung proses CRUD, filter kategori, pencarian layanan, pagination, serta tampilan antarmuka modern dengan Tailwind CSS.
@@ -114,13 +114,14 @@ DB_PASS=
 
 ## Screenshot
 
-```Beranda
+
+Beranda
 <img width="1892" height="945" alt="image" src="https://github.com/user-attachments/assets/71f9ff19-51c5-4be2-bebc-4333ccb94d8f" />
 
 <img width="1887" height="936" alt="image" src="https://github.com/user-attachments/assets/b9587976-8ba1-45fe-8243-54f84f26ac09" />
 
 
-```
+
 
 ---
 ## 👤 Author
